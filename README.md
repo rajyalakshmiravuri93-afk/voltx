@@ -1,2 +1,3 @@
-# voltx
-it is a  voltage boost converter project
+# VOLTX
+DC TO DC BOOST CONVERTER
+MT3608 IC
